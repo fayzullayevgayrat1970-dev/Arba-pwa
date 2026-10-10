@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#900C3F"/>
+  <circle cx="128" cy="100" r="62" fill="#FFFFFF"/>
+  <path fill="#900C3F" d="M88 78 c4-3 9-4 14-2 c-2-7 4-13 11-12 c4 1 6 4 6 8 c5-2 11 0 13 5 c2 5-1 10-6 12 c3 3 3 8 0 11 c-3 3-9 2-12-2 c0 8-6 14-14 14 c-4 0-7-1-10-4 c1 5-3 9-7 9 c-4 0-7-3-7-7 c-3 1-7-1-7-5 c0-4 4-7 8-6 c1-7 7-13 11-21 z M95 98 a3 3 0 1 0 6 0 a3 3 0 1 0 -6 0"/>
+  <text x="128" y="210" font-family="Arial Black, sans-serif" font-size="48" font-weight="900" text-anchor="middle" fill="#FFFFFF" letter-spacing="2">ARBA</text>
+</svg>
